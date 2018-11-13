@@ -1,0 +1,4 @@
+# Site settings
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://localhost:8888" # the base hostname & protocol for your site
+host: localhost
