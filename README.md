@@ -2,6 +2,6 @@
 
 use it by installing vagrant and running:
 
-     vagrant up
+    vagrant up
 
 The site will be available on 8888 port
