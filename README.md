@@ -1,6 +1,6 @@
 # Static www engine Jekyll based on Vagrant runtime
 
-To use it, just install vagrant and run:
+use it by installing vagrant and running:
 
      vagrant up
 
